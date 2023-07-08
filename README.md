@@ -138,6 +138,7 @@ output:
 ![test case 4 check out](https://github.com/indra2878/Python-Project-Super-Cashier/assets/129472057/94bb1724-2b8c-4572-916c-f30a3e57589f)
 
 untuk lebih jelasnya lihat file jupiter notebook "super cashier fitur requirement dan test case".
+atau lihat video https://youtu.be/sEr5CZHf2vc
 ## 6. Kesimpulan
 Program Super Cashier sederhana yang dibuat dengan bahasa pemrograman python ini
 telah mampu memenuhi feature requirements dan menjawab test case test case yang umumnya ada.
