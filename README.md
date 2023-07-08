@@ -23,7 +23,7 @@ Adapun _Feature Requirements_ tersebut mencakup:
 8. fitur lain yang mendukung.
 ## 3.  Alur Proses Pengaplikasian Program
 Alur Proses Pelaksanaan belanja menggunakan program Super Cashier adalah sebagai berikut:
-![flowchart super cashier](https://github.com/indra2878/Python-Project-Super-Cashier/assets/129472057/271ebded-320e-4d75-8d54-acf126489b7c)
+![flowchart super cashier](https://github.com/indra2878/Python-Project-Super-Cashier/assets/129472057/1b0fb7ca-ec7f-4b01-a939-25d489a66a05)
 ## 4. Penjelasan Kode
 1. <b>Modul pandas</b> : untuk pembuatan dataframe 
 2. <b>Modul sys</b> : untuk membuat sistem exit program.
